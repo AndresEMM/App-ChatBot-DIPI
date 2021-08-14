@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AndresEMM/App-ChatBot-DITI.git/static/css/main.8243d4b7.chunk.css",
-    "main.js": "/AndresEMM/App-ChatBot-DITI.git/static/js/main.451d343d.chunk.js",
-    "main.js.map": "/AndresEMM/App-ChatBot-DITI.git/static/js/main.451d343d.chunk.js.map",
-    "runtime-main.js": "/AndresEMM/App-ChatBot-DITI.git/static/js/runtime-main.faf668bc.js",
-    "runtime-main.js.map": "/AndresEMM/App-ChatBot-DITI.git/static/js/runtime-main.faf668bc.js.map",
-    "static/js/2.472d9422.chunk.js": "/AndresEMM/App-ChatBot-DITI.git/static/js/2.472d9422.chunk.js",
-    "static/js/2.472d9422.chunk.js.map": "/AndresEMM/App-ChatBot-DITI.git/static/js/2.472d9422.chunk.js.map",
-    "static/js/3.5b0f1400.chunk.js": "/AndresEMM/App-ChatBot-DITI.git/static/js/3.5b0f1400.chunk.js",
-    "static/js/3.5b0f1400.chunk.js.map": "/AndresEMM/App-ChatBot-DITI.git/static/js/3.5b0f1400.chunk.js.map",
-    "index.html": "/AndresEMM/App-ChatBot-DITI.git/index.html",
-    "static/css/main.8243d4b7.chunk.css.map": "/AndresEMM/App-ChatBot-DITI.git/static/css/main.8243d4b7.chunk.css.map",
-    "static/js/2.472d9422.chunk.js.LICENSE.txt": "/AndresEMM/App-ChatBot-DITI.git/static/js/2.472d9422.chunk.js.LICENSE.txt"
+    "main.css": "/App-ChatBot-DITI/static/css/main.8243d4b7.chunk.css",
+    "main.js": "/App-ChatBot-DITI/static/js/main.451d343d.chunk.js",
+    "main.js.map": "/App-ChatBot-DITI/static/js/main.451d343d.chunk.js.map",
+    "runtime-main.js": "/App-ChatBot-DITI/static/js/runtime-main.b8da2331.js",
+    "runtime-main.js.map": "/App-ChatBot-DITI/static/js/runtime-main.b8da2331.js.map",
+    "static/js/2.472d9422.chunk.js": "/App-ChatBot-DITI/static/js/2.472d9422.chunk.js",
+    "static/js/2.472d9422.chunk.js.map": "/App-ChatBot-DITI/static/js/2.472d9422.chunk.js.map",
+    "static/js/3.5b0f1400.chunk.js": "/App-ChatBot-DITI/static/js/3.5b0f1400.chunk.js",
+    "static/js/3.5b0f1400.chunk.js.map": "/App-ChatBot-DITI/static/js/3.5b0f1400.chunk.js.map",
+    "index.html": "/App-ChatBot-DITI/index.html",
+    "static/css/main.8243d4b7.chunk.css.map": "/App-ChatBot-DITI/static/css/main.8243d4b7.chunk.css.map",
+    "static/js/2.472d9422.chunk.js.LICENSE.txt": "/App-ChatBot-DITI/static/js/2.472d9422.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.faf668bc.js",
+    "static/js/runtime-main.b8da2331.js",
     "static/js/2.472d9422.chunk.js",
     "static/css/main.8243d4b7.chunk.css",
     "static/js/main.451d343d.chunk.js"
