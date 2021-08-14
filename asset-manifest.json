@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/App-ChatBot-DITI/static/css/main.8243d4b7.chunk.css",
-    "main.js": "/App-ChatBot-DITI/static/js/main.451d343d.chunk.js",
-    "main.js.map": "/App-ChatBot-DITI/static/js/main.451d343d.chunk.js.map",
-    "runtime-main.js": "/App-ChatBot-DITI/static/js/runtime-main.b8da2331.js",
-    "runtime-main.js.map": "/App-ChatBot-DITI/static/js/runtime-main.b8da2331.js.map",
-    "static/js/2.472d9422.chunk.js": "/App-ChatBot-DITI/static/js/2.472d9422.chunk.js",
-    "static/js/2.472d9422.chunk.js.map": "/App-ChatBot-DITI/static/js/2.472d9422.chunk.js.map",
-    "static/js/3.5b0f1400.chunk.js": "/App-ChatBot-DITI/static/js/3.5b0f1400.chunk.js",
-    "static/js/3.5b0f1400.chunk.js.map": "/App-ChatBot-DITI/static/js/3.5b0f1400.chunk.js.map",
-    "index.html": "/App-ChatBot-DITI/index.html",
-    "static/css/main.8243d4b7.chunk.css.map": "/App-ChatBot-DITI/static/css/main.8243d4b7.chunk.css.map",
-    "static/js/2.472d9422.chunk.js.LICENSE.txt": "/App-ChatBot-DITI/static/js/2.472d9422.chunk.js.LICENSE.txt"
+    "main.css": "/App-ChatBot-DIPI/static/css/main.8243d4b7.chunk.css",
+    "main.js": "/App-ChatBot-DIPI/static/js/main.451d343d.chunk.js",
+    "main.js.map": "/App-ChatBot-DIPI/static/js/main.451d343d.chunk.js.map",
+    "runtime-main.js": "/App-ChatBot-DIPI/static/js/runtime-main.74400045.js",
+    "runtime-main.js.map": "/App-ChatBot-DIPI/static/js/runtime-main.74400045.js.map",
+    "static/js/2.472d9422.chunk.js": "/App-ChatBot-DIPI/static/js/2.472d9422.chunk.js",
+    "static/js/2.472d9422.chunk.js.map": "/App-ChatBot-DIPI/static/js/2.472d9422.chunk.js.map",
+    "static/js/3.5b0f1400.chunk.js": "/App-ChatBot-DIPI/static/js/3.5b0f1400.chunk.js",
+    "static/js/3.5b0f1400.chunk.js.map": "/App-ChatBot-DIPI/static/js/3.5b0f1400.chunk.js.map",
+    "index.html": "/App-ChatBot-DIPI/index.html",
+    "static/css/main.8243d4b7.chunk.css.map": "/App-ChatBot-DIPI/static/css/main.8243d4b7.chunk.css.map",
+    "static/js/2.472d9422.chunk.js.LICENSE.txt": "/App-ChatBot-DIPI/static/js/2.472d9422.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8da2331.js",
+    "static/js/runtime-main.74400045.js",
     "static/js/2.472d9422.chunk.js",
     "static/css/main.8243d4b7.chunk.css",
     "static/js/main.451d343d.chunk.js"
